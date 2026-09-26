@@ -1,4 +1,4 @@
-import { Leaf, Sprout, BarChart3, Store, Truck, ShieldCheck, Users, Apple, Smartphone } from 'lucide-react';
+﻿import { Leaf, Sprout, BarChart3, Store, Truck, ShieldCheck, Users, Apple, Smartphone } from 'lucide-react';
 
 export function AppDownloads() {
   return (
@@ -80,7 +80,9 @@ export function AppDownloads() {
             {/* Install Buttons */}
             <div className="mt-auto flex w-full gap-3">
               <a
-                href="/APKs/application-9545e05a-9931-4734-8358-8e8384b7e510.apk"
+                href="https://github.com/Bhanucreator/KisanShakti-Portfolio/releases/download/v1.0.0/Upaj.apk"
+                target="_blank"
+                rel="noopener noreferrer"
                 download="Upaj.apk"
                 className="flex-1 flex items-center justify-center gap-1.5 bg-[#0A2F1D] text-white px-3 py-3 rounded-full font-bold hover:bg-[#15462d] transition-all shadow-lg hover:shadow-xl group/btn text-xs sm:text-sm"
               >
@@ -151,7 +153,9 @@ export function AppDownloads() {
             {/* Install Buttons */}
             <div className="mt-auto flex w-full gap-3">
               <a
-                href="/APKs/application-894f17db-a2e4-4a12-9793-54c3dfb12775.apk"
+                href="https://github.com/Bhanucreator/KisanShakti-Portfolio/releases/download/v1.0.0/Mandi.apk"
+                target="_blank"
+                rel="noopener noreferrer"
                 download="Mandi.apk"
                 className="flex-1 flex items-center justify-center gap-1.5 bg-[#0A2F1D] text-white px-3 py-3 rounded-full font-bold hover:bg-[#15462d] transition-all shadow-lg hover:shadow-xl group/btn text-xs sm:text-sm"
               >
